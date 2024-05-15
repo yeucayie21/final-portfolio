@@ -107,9 +107,13 @@ table {
   font-size: 11.3px;
   color: #747582;
 
+
   a{
     text-decoration: none;
     color: #747582;
+    cursor: pointer;
+    position: absolute !important;
+    z-index: 1000 !important;
   }
 }
 .get-in-touch {
@@ -186,7 +190,7 @@ table {
   box-sizing: border-box;
 }
 .digital-marketer {
-  margin-top: 4.5px;
+  margin-top: -4.5px;
   display: inline-block;
   overflow-wrap: break-word;
   font-family: 'Ubuntu';
@@ -209,13 +213,13 @@ table {
   font-weight: 700;
   font-size: 32px;
   letter-spacing: 0.6px;
-  line-height: 1.759;
+  line-height: 0.9;
   color: #282C4B;
 }
 .vector-20 {
   position: absolute;
-  top: 50%;
-  right: 44px;
+  top: 43%;
+  left: 216px;
   translate: 0 -50%;
   width: 171.8px;
   height: 6.6px;
@@ -235,6 +239,7 @@ table {
   font-weight: 300;
   font-size: 20px;
   color: #000000;
+  width: 50%;
 }
 .get-started-1 {
   text-align: center;
@@ -284,11 +289,13 @@ table {
   width: 336.2px;
   height: 212.6px;
   box-sizing: border-box;
+
 }
 .blue-pic {
   border-radius: 10px;
   width: 355.5px;
   height: 348.2px;
+  
 }
 .hero-pic {
   border-radius: 10px;
@@ -313,23 +320,25 @@ table {
 .graycurlyline {
   transform: rotate(-33.456deg);
   position: absolute;
-  left: 17.1px;
-  top: 122.1px;
+  left: -4.9px;
+  top: -42px;
   width: 112.7px;
   height: 96.3px;
 }
 .curlyline {
   position: absolute;
   right: unset;
-  bottom: 10.9px;
+  bottom: 197.9px;
   width: 124.8px;
   height: 93.1px;
 }
 .fullgroup {
   position: relative;
   padding-top: 253.1px;
+  margin-top: 253.1px;
   width: 418.5px;
   height: 465.7px;
+  z-index: 4;
   box-sizing: border-box;
 }
 .num {
@@ -367,6 +376,7 @@ table {
   width: 418.5px;
   height: 493.8px;
   box-sizing: border-box;
+  background-image: url("../images/images/image.png");
 }
 .hero {
   position: relative;
@@ -771,6 +781,10 @@ table {
   line-height: 1.472;
   color: #282C4B;
 }
+#test-link{
+  cursor: pointer;
+}
+
 .testimonials {
   margin-bottom: 115.1px;
   display: inline-block;
