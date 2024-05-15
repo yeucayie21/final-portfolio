@@ -76,6 +76,11 @@ table {
   font-weight: 400;
   font-size: 11.3px;
   color: #747582;
+
+  a{
+    text-decoration: none;
+    color: #747582;
+  }
 }
 .clients {
   margin: 14.6px 0 14.4px 0;
@@ -85,6 +90,11 @@ table {
   font-weight: 400;
   font-size: 11.3px;
   color: #747582;
+
+  a{
+    text-decoration: none;
+    color: #747582;
+  }
 }
 .testimonials-1 {
   margin: 15.1px 0 13.9px 0;
@@ -94,6 +104,11 @@ table {
   font-weight: 400;
   font-size: 11.3px;
   color: #747582;
+
+  a{
+    text-decoration: none;
+    color: #747582;
+  }
 }
 .get-in-touch {
   margin: 15.1px 23.3px 13.9px 0;
@@ -103,6 +118,11 @@ table {
   font-weight: 400;
   font-size: 11.3px;
   color: #747582;
+
+  a{
+    text-decoration: none;
+    color: #747582;
+  }
 }
 .lets-talk {
   overflow-wrap: break-word;
@@ -110,6 +130,11 @@ table {
   font-weight: 700;
   font-size: 9.8px;
   color: #282C4B;
+
+  a{
+    text-decoration: none;
+    color: #5D6473;
+  }
 }
 .letstalk-txt {
   border-radius: 56.3px;
