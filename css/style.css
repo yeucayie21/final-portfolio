@@ -1,0 +1,1400 @@
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+.herocontent {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  height: 100%;
+}
+.yeukai-consollor-vurayayi {
+  margin: 10.3px 37.5px 0 0;
+  display: inline-block;
+  width: 248.3px;
+  overflow-wrap: break-word;
+  font-family: 'Ubuntu';
+  font-style: italic;
+  font-weight: 700;
+  font-size: 18.3px;
+  line-height: 1.385;
+  color: #000000;
+}
+.home {
+  margin: 14.6px 6.5px 14.4px 0;
+  display: inline-block;
+  width: 77px;
+  overflow-wrap: break-word;
+  font-family: 'Ubuntu';
+  font-weight: 400;
+  font-size: 11.3px;
+  color: #747582;
+}
+.clients {
+  margin: 14.6px 0 14.4px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Ubuntu';
+  font-weight: 400;
+  font-size: 11.3px;
+  color: #747582;
+}
+.testimonials-1 {
+  margin: 15.1px 0 13.9px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Ubuntu';
+  font-weight: 400;
+  font-size: 11.3px;
+  color: #747582;
+}
+.get-in-touch {
+  margin: 15.1px 23.3px 13.9px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Ubuntu';
+  font-weight: 400;
+  font-size: 11.3px;
+  color: #747582;
+}
+.lets-talk {
+  overflow-wrap: break-word;
+  font-family: 'Ubuntu';
+  font-weight: 700;
+  font-size: 9.8px;
+  color: #282C4B;
+}
+.letstalk-txt {
+  border-radius: 56.3px;
+  border: 0.7px solid rgba(255, 105, 141, 0.5);
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  padding: 15px 17.3px 16px 0;
+  width: 137px;
+  box-sizing: border-box;
+  position: absolute;
+  padding-left: 30px;
+}
+.container-8 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.group-649 {
+  border-radius: 56.3px;
+  margin-bottom: 43.3px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 555.8px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.hero-intro {
+  border-radius: 56.3px;
+  margin: 0 0 34.5px 6px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 841.7px;
+  box-sizing: border-box;
+}
+.verify {
+  width: 20.5px;
+  height: 22.5px;
+}
+.vuesaxbulkverify {
+  margin: 0 6.8px 5px 0;
+  display: flex;
+  width: 20.5px;
+  height: 22.5px;
+  box-sizing: border-box;
+}
+.digital-marketer {
+  margin-top: 4.5px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Ubuntu';
+  font-weight: 400;
+  font-size: 20px;
+  color: #FB3F6C;
+}
+.dm {
+  margin: 0 18.3px 11.7px 18.3px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.reach-out-to-your-business-goals-in-record-time {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Ubuntu';
+  font-weight: 700;
+  font-size: 32px;
+  letter-spacing: 0.6px;
+  line-height: 1.759;
+  color: #282C4B;
+}
+.vector-20 {
+  position: absolute;
+  top: 50%;
+  right: 44px;
+  translate: 0 -50%;
+  width: 171.8px;
+  height: 6.6px;
+}
+.advert {
+  position: relative;
+  margin-bottom: 27.1px;
+  display: flex;
+  box-sizing: border-box;
+}
+.im-adigital-marketer-with-abackground-in-ui-ux-web-design-web-development-and-akeen-interest-in-social-media-strategies-and-content-creation-ive-recently-completed-adigital-marketing-certification-and-am-excited-to-share-my-work {
+  margin: 0 2.8px 29.1px 2.8px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Ubuntu';
+  font-weight: 300;
+  font-size: 20px;
+  color: #000000;
+}
+.get-started-1 {
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Ubuntu';
+  font-weight: 700;
+  font-size: 12.7px;
+  letter-spacing: 0.3px;
+  color: #FFFFFF;
+  padding-left: 30px;
+}
+.getstarted-btn {
+  box-shadow: 0px 21.1px 35.2px 0px rgba(168, 22, 75, 0.15);
+  border-radius: 135.1px;
+  border: 1.4px solid rgba(255, 255, 255, 0.8);
+  background: linear-gradient(277.32deg, #FF698D 103.5%, #FB3F6C 208.4%);
+  position: relative;
+  margin: 0 29px;
+  display: flex;
+  align-self: flex-start;
+  padding: 18px 2.1px 5.1px 0;
+  width: 143.2px;
+  box-sizing: border-box;
+}
+.about-yeu {
+  display: flex;
+  flex-direction: column;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.container-1 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.mask-group-2 {
+  border-radius: 10px;
+  width: 336.2px;
+  height: 212.6px;
+}
+.pink-splash {
+  border-radius: 10px;
+  position: relative;
+  display: flex;
+  width: 336.2px;
+  height: 212.6px;
+  box-sizing: border-box;
+}
+.blue-pic {
+  border-radius: 10px;
+  width: 355.5px;
+  height: 348.2px;
+}
+.hero-pic {
+  border-radius: 10px;
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  display: flex;
+  width: 355.5px;
+  height: 348.2px;
+  box-sizing: border-box;
+  background-image: url(../images/images/image.png);
+}
+/* .container-2 {
+  border-radius: 146px;
+  background: url('../images/images/image.png');
+  position: absolute;
+  left: 46.5px;
+  top: 22.4px;
+  width: 225.8px;
+  height: 325.7px;
+} */
+.graycurlyline {
+  transform: rotate(-33.456deg);
+  position: absolute;
+  left: 17.1px;
+  top: 122.1px;
+  width: 112.7px;
+  height: 96.3px;
+}
+.curlyline {
+  position: absolute;
+  right: unset;
+  bottom: 10.9px;
+  width: 124.8px;
+  height: 93.1px;
+}
+.fullgroup {
+  position: relative;
+  padding-top: 253.1px;
+  width: 418.5px;
+  height: 465.7px;
+  box-sizing: border-box;
+}
+.num {
+  margin: 0 12.6px 14px 0;
+  width: 115.4px;
+  height: 15.5px;
+}
+.taffygroup {
+  margin-left: 12.8px;
+  width: 115.2px;
+  height: 30px;
+  background-image: url(../images/images/taffygroup_x2.svg);
+}
+.socials {
+  box-shadow: 7px 16.9px 28.1px 0px rgba(168, 22, 75, 0.05);
+  backdrop-filter: blur(35.2px);
+  background: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  right: 29px;
+  bottom: -49px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-bottom: 18.7px;
+  width: 186px;
+  height: 102px;
+  box-sizing: border-box;
+}
+.my-identity {
+  position: absolute;
+  top: 40.2px;
+  right: 3.1px;
+  display: flex;
+  padding-bottom: 28.2px;
+  width: 418.5px;
+  height: 493.8px;
+  box-sizing: border-box;
+}
+.hero {
+  position: relative;
+  margin: 0 85.9px 112.1px 49.6px;
+  display: flex;
+  padding: 40px 44.4px 12.7px 44.4px;
+  width: 1005.5px;
+  box-sizing: border-box;
+}
+.services-1 {
+  margin: 0 0 42px 8.3px;
+  display: inline-block;
+  align-self: center;
+  overflow-wrap: break-word;
+  font-family: 'Ubuntu';
+  font-weight: 400;
+  font-size: 20px;
+  color: #000000;
+}
+.capabilities {
+  margin-bottom: 17.2px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Ubuntu';
+  font-weight: 700;
+  font-size: 25.3px;
+  letter-spacing: 0.5px;
+  line-height: 1.472;
+  color: #282C4B;
+}
+.iwill-bring-the-breathe-of-my-experience-and-industry-knowledge-to-help-you-succeed {
+  overflow-wrap: break-word;
+  font-family: 'Ubuntu';
+  font-weight: 400;
+  font-size: 14.1px;
+  line-height: 1.6;
+  color: #747582;
+}
+.container-14 {
+  margin: 24.6px 111.9px 54.1px 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.shop {
+  width: 28.1px;
+  height: 28.1px;
+}
+.vuesaxbulkshop {
+  margin-bottom: 15.5px;
+  display: flex;
+  align-self: flex-start;
+  width: 28.1px;
+  height: 28.1px;
+  box-sizing: border-box;
+}
+.market-forcest {
+  margin: 0 19.9px 13px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Ubuntu';
+  font-weight: 500;
+  font-size: 14.1px;
+  line-height: 1.25;
+  color: #14183E;
+}
+.leverage-agile-framework-to-provide-arobust-high-level-synopsys-overviews {
+  overflow-wrap: break-word;
+  font-family: 'Ubuntu';
+  font-weight: 400;
+  font-size: 10.6px;
+  line-height: 1.8;
+  color: #747582;
+}
+.marketgroup {
+  margin: 35.2px 51px 35.2px 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.cards {
+  width: 28.1px;
+  height: 28.1px;
+}
+.vuesaxbulkcards {
+  margin-bottom: 7px;
+  display: flex;
+  align-self: flex-start;
+  width: 28.1px;
+  height: 28.1px;
+  box-sizing: border-box;
+}
+.fund-raising {
+  margin-bottom: 13px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Ubuntu';
+  font-weight: 500;
+  font-size: 14.1px;
+  line-height: 1.25;
+  color: #14183E;
+}
+.bring-to-the-table-survival-strategies-to-ensure-proactive-domination {
+  overflow-wrap: break-word;
+  font-family: 'Ubuntu';
+  font-weight: 400;
+  font-size: 10.6px;
+  line-height: 1.8;
+  color: #747582;
+}
+.fundraisinggroup {
+  margin: 35.2px 36.4px 43.6px 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.favorite-chart {
+  width: 28.1px;
+  height: 28.1px;
+}
+.vuesaxbulkfavorite-chart {
+  margin: 0 78.1px 7px 0;
+  display: flex;
+  width: 28.1px;
+  height: 28.1px;
+  box-sizing: border-box;
+}
+.cash-flow {
+  margin: 0 40.3px 13px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Ubuntu';
+  font-weight: 500;
+  font-size: 14.1px;
+  line-height: 1.25;
+  color: #14183E;
+}
+.grow-the-holistic-world-view-of-disruptive-innovation-workspace {
+  overflow-wrap: break-word;
+  font-family: 'Ubuntu';
+  font-weight: 400;
+  font-size: 10.6px;
+  line-height: 1.8;
+  color: #747582;
+}
+.cashgroup {
+  box-shadow: 28.1px 0px 49.2px 0px rgb(255, 255, 255), -28.1px 70.4px 49.2px 0px rgba(121, 121, 121, 0.05);
+  background: rgb(255, 255, 255);
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 176.6px;
+}
+.container-9 {
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.container-10 {
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  padding: 27px 0 16.4px 48px;
+  box-sizing: border-box;
+}
+.curlygrayline-2 {
+  opacity: 0.2;
+  transform: rotate(-34.322deg);
+  position: absolute;
+  left: 188.4px;
+  bottom: 0px;
+  width: 102.3px;
+  height: 116.4px;
+}
+.services {
+  position: relative;
+  margin: 0 66.9px 149.4px 61px;
+  padding-bottom: 35.3px;
+  box-sizing: border-box;
+}
+.svssection {
+  background: #19194100;
+  position: relative;
+  width: 1105px;
+  height: 416.5px;
+}
+.bluesctn {
+  position: absolute;
+  left: 0px;
+  bottom: 14.1px;
+  width: 1125.7px;
+  height: 388.3px;
+}
+.take-on-any-challenge-of-the-digital-world {
+  margin-bottom: 19.1px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Ubuntu';
+  font-weight: 700;
+  font-size: 25.3px;
+  letter-spacing: 0.3px;
+  line-height: 1.667;
+  color: #FFFFFF;
+}
+.vector-1453 {
+  width: 19.2px;
+  height: 17.6px;
+}
+.checklist-circle {
+  margin-right: 14.2px;
+  display: flex;
+  width: 19.2px;
+  height: 17.6px;
+  box-sizing: border-box;
+}
+.corporate-financial-advisory {
+  margin: 1.1px 0 0.5px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Ubuntu';
+  font-weight: 400;
+  font-size: 14.1px;
+  color: #CED1E5;
+}
+.group-572 {
+  margin: 0 1.9px 17.6px 1.9px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.vector-1454 {
+  width: 19.2px;
+  height: 17.6px;
+}
+.checklist-circle-1 {
+  margin-right: 14.2px;
+  display: flex;
+  width: 19.2px;
+  height: 17.6px;
+  box-sizing: border-box;
+}
+.development-of-financial-models {
+  margin: 1.1px 0 0.5px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Ubuntu';
+  font-weight: 400;
+  font-size: 14.1px;
+  color: #CED1E5;
+}
+.group-5731 {
+  margin: 0 1.9px 17.6px 1.9px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.vector-1456 {
+  width: 19.2px;
+  height: 17.6px;
+}
+.checklist-circle-2 {
+  margin-right: 14.2px;
+  display: flex;
+  width: 19.2px;
+  height: 17.6px;
+  box-sizing: border-box;
+}
+.deal-structuring {
+  margin: 1.1px 0 0.5px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Ubuntu';
+  font-weight: 400;
+  font-size: 14.1px;
+  color: #CED1E5;
+}
+.group-574 {
+  margin: 0 1.9px 44px 1.9px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.get-started {
+  overflow-wrap: break-word;
+  font-family: 'Ubuntu';
+  font-weight: 700;
+  font-size: 12.7px;
+  letter-spacing: 0.3px;
+  color: #FFFFFF;
+  padding-left: 30px;
+}
+.group-5661 {
+  box-shadow: 0px 21.1px 35.2px 0px rgba(168, 22, 75, 0.15);
+  border-radius: 135.1px;
+  border: 1.4px solid rgba(255, 255, 255, 0.8);
+  background: linear-gradient(277.32deg, #FF698D 103.5%, #FB3F6C 208.4%);
+  position: relative;
+  margin: 0 1.5px;
+  display: flex;
+  align-self: flex-start;
+  padding: 16.9px 0 17px 0px;
+  width: 161.1px;
+  box-sizing: border-box;
+}
+.analysis {
+  position: absolute;
+  right: 143.9px;
+  bottom: 63.3px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.vector-1457 {
+  width: 83.6px;
+  height: 96.4px;
+  padding-bottom: 10rem;
+}
+.svscurlyline {
+  position: absolute;
+  left: 430.6px;
+  top: 109.4px;
+  display: flex;
+  width: 83.6px;
+  height: 96.4px;
+  box-sizing: border-box;
+  
+}
+.splashgroup {
+  border-radius: 10px;
+  width: 347px;
+  height: 199.1px;
+  
+}
+.pinksplash-2 {
+  margin-top: 10rem;
+  position: relative;
+  left: -807px;
+  bottom: 80px;
+  filter: blur(0px);
+  border-radius: 10px;
+  display: flex;
+  width: 347px;
+  height: 199.1px;
+  box-sizing: border-box;
+}
+.mask-group-3 {
+  border-radius: 10px;
+  width: 366.9px;
+  height: 326.1px;
+} 
+.bluesplash-2 {
+  border-radius: 10px;
+  position: absolute;
+  left: 101.4px;
+  top: 0px;
+  display: flex;
+  width: 366.9px;
+  height: 326.1px;
+  box-sizing: border-box;
+}
+.container-3 {
+  border-radius: 146px;
+  position: absolute;
+  left: 123px;
+  top: 25px;
+  width: 233px;
+  height: 305px;
+  
+}
+.why-choose-my-brand {
+  position: relative;
+  margin-bottom: 27.5px;
+  display: flex;
+  padding: 45px 0 0 36px;
+  width: 1141px;
+  height: 461.5px;
+  box-sizing: border-box;
+  background-image: url(../images/images/bluesctn_x2.svg);
+}
+.what-my-customers-say {
+  margin: 32.1px 55.5px 0 0;
+  display: inline-block;
+  width: 282.8px;
+  overflow-wrap: break-word;
+  font-family: 'Ubuntu';
+  font-weight: 700;
+  font-size: 25.3px;
+  letter-spacing: 0.5px;
+  line-height: 1.472;
+  color: #282C4B;
+}
+.testimonials {
+  margin-bottom: 115.1px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Ubuntu';
+  font-weight: 400;
+  font-size: 24px;
+  color: #FB3F6C;
+}
+.testimonials-2 {
+  margin: 0 284.6px 41.9px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 503.3px;
+  box-sizing: border-box;
+}
+.group-11 {
+  box-shadow: 0px 83.7px 56.3px 0px rgba(193, 38, 75, 0.07), 0px 25.2px 33.8px 0px rgba(184, 36, 80, 0.047), 0px 10.5px 7.9px 0px rgba(171, 50, 108, 0.046), 0px 3.8px 0.7px 0px rgba(67, 8, 43, 0.041);
+  width: 735.3px;
+  height: 302.3px;
+}
+.group-9141 {
+  position: absolute;
+  left: 0px;
+  bottom: 0px;
+  display: flex;
+  width: 735.3px;
+  height: 380.3px;
+  box-sizing: border-box;
+}
+.container {
+  margin-bottom: 11.5px;
+  align-self: flex-start;
+  width: 26.5px;
+  height: 45.6px;
+}
+.working-with-yeukai-has-been-agame-changer-for-our-brand-ada-vee-foundation-ceo {
+  margin: 0 0 6.7px 21.9px;
+  display: inline-block;
+  text-align: right;
+  overflow-wrap: break-word;
+  font-family: 'Ubuntu';
+  font-weight: 400;
+  font-size: 12.7px;
+  line-height: 1.778;
+  color: #5D6473;
+}
+.vimbai-ada {
+  overflow-wrap: break-word;
+  font-family: 'Ubuntu';
+  font-weight: 700;
+  font-size: 15.5px;
+  color: #101D34;
+  
+  
+}
+.group-9037 {
+  margin-right: 116.8px;
+  display: flex;
+  align-self: center;
+  box-sizing: border-box;
+}
+.container-13 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.ellipse-180 {
+  position: absolute;
+  left: 26.6px;
+  bottom: 18.1px;
+  width: 41.5px;
+  height: 34.3px;
+}
+.group-9140 {
+  box-shadow: 28.1px 0px 49.2px 0px rgba(123, 67, 67, 0.07), -28.1px 70.4px 49.2px 0px rgba(122, 79, 79, 0.07);
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  padding: 17.2px 20.4px 25.6px 20.4px;
+  box-sizing: border-box;
+}
+.veewords {
+  position: relative;
+  display: flex;
+  padding: 49.1px 0 65.6px 0;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.adavee-testimonial {
+  background: rgba(246, 215, 228, 0.09);
+  margin: 0 97px 0 53px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 87px 98.1px 129.8px 99px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.mask-group {
+  border-radius: 10px;
+  width: 347px;
+  height: 199.1px;
+}
+.group-2047 {
+  border-radius: 10px;
+  position: relative;
+  display: flex;
+  width: 347px;
+  height: 199.1px;
+  box-sizing: border-box;
+}
+.mask-group-1 {
+  border-radius: 10px;
+  width: 366.9px;
+  height: 326.1px;
+}
+.group-2048 {
+  border-radius: 10px;
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  display: flex;
+  width: 366.9px;
+  height: 326.1px;
+  box-sizing: border-box;
+}
+/* .container-1 {
+  border-radius: 146px;
+  background-image: url('../images/images/image.png');
+  position: absolute;
+  left: 52.4px;
+  bottom: 53.5px;
+  width: 233px;
+  height: 305px;
+} */
+.vector-1446 {
+  transform: rotate(-30.949deg);
+  position: absolute;
+  left: 14.1px;
+  top: 114.3px;
+  width: 116.3px;
+  height: 90.2px;
+}
+.vector-1447 {
+  transform: rotate(21.586deg);
+  position: absolute;
+  right: 87px;
+  bottom: 62.1px;
+  width: 134.8px;
+  height: 157.4px;
+}
+.group-9146 {
+  position: relative;
+  margin: 0 23px 17px 0;
+  padding-top: 256.4px;
+  width: 428.3px;
+  height: 455.5px;
+  box-sizing: border-box;
+}
+.lets-collaborate-now {
+  overflow-wrap: break-word;
+  font-family: 'Ubuntu';
+  font-weight: 700;
+  font-size: 25.3px;
+  letter-spacing: 0.5px;
+  line-height: 1.472;
+  color: #282C4B;
+}
+.group-9139 {
+  margin: 0 0px 28.4px 0px;
+  display: flex;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.full-name {
+  margin: 0 0px 7.3px 0px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Ubuntu';
+  font-weight: 500;
+  font-size: 14.1px;
+  line-height: 1.6;
+  color: #14183E;
+}
+.input-your-name {
+  overflow-wrap: break-word;
+  font-family: 'Ubuntu';
+  font-weight: 400;
+  font-size: 10.6px;
+  line-height: 1.867;
+  color: #747582;
+
+}
+.container-16 {
+  background: #FFF8F8;
+  position: relative;
+  padding: 10.6px 21.1px 10.3px 21.1px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.group-571 {
+  margin: 0 0px 21.1px 0;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.email {
+  margin-right: 11.5px;
+  width: 186.9px;
+  overflow-wrap: break-word;
+  font-family: 'Ubuntu';
+  font-weight: 500;
+  font-size: 14.1px;
+  line-height: 1.6;
+  color: #14183E;
+}
+.date {
+  overflow-wrap: break-word;
+  font-family: 'Ubuntu';
+  font-weight: 500;
+  font-size: 14.1px;
+  line-height: 1.6;
+  color: #14183E;
+}
+.input-your-email {
+  overflow-wrap: break-word;
+  font-family: 'Ubuntu';
+  font-weight: 400;
+  font-size: 10.6px;
+  line-height: 1.867;
+  color: #747582;
+  margin-left: 21px;
+}
+.container-6 {
+  background: #FFF8F8;
+  position: relative;
+  margin-right: 17.6px;
+  display: flex;
+  padding: 10.6px 63.2px 10.3px 0;
+  width: 180.8px;
+  box-sizing: border-box;
+}
+.calendar {
+  width: 10.6px;
+  height: 11.7px;
+}
+.iconly-bold-calendar {
+  margin: 4px 15.1px 4.3px 0;
+  display: flex;
+  width: 10.6px;
+  height: 11.7px;
+  box-sizing: border-box;
+}
+.select-date {
+  overflow-wrap: break-word;
+  font-family: 'Ubuntu';
+  font-weight: 400;
+  font-size: 10.6px;
+  line-height: 1.867;
+  color: #747582;
+}
+.container-2 {
+  background: #FFF8F8;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  padding: 10.6px 0 10.3px 0;
+  width: 180.8px;
+  box-sizing: border-box;
+}
+.container-12 {
+  margin-bottom: 21.1px;
+  display: flex;
+  flex-direction: row;
+  width: 379.2px;
+  box-sizing: border-box;
+}
+.message {
+  margin: 0 0px 7.3px 0px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Ubuntu';
+  font-weight: 500;
+  font-size: 14.1px;
+  line-height: 1.6;
+  color: #14183E;
+}
+.write-message {
+  overflow-wrap: break-word;
+  font-family: 'Ubuntu';
+  font-weight: 400;
+  font-size: 10.6px;
+  line-height: 2.133;
+  color: #747582;
+}
+.container-11 {
+  background: #FFF8F8;
+  position: relative;
+  padding: 14.1px 21.1px 44.5px 21.1px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.group-573 {
+  margin: 0 0px 42.2px 0;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.send-message {
+  overflow-wrap: break-word;
+  font-family: 'Ubuntu';
+  font-weight: 700;
+  font-size: 12.7px;
+  letter-spacing: 0.3px;
+  color: #FFFFFF;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  padding-left: 30px;
+}
+.group-566 {
+  box-shadow: 0px 21.1px 35.2px 0px rgba(168, 22, 75, 0.15);
+  border-radius: 135.1px;
+  border: 1.4px solid rgba(255, 255, 255, 0.8);
+  background: linear-gradient(277.32deg, #FF698D 103.5%, #FB3F6C 208.4%);
+  position: relative;
+  display: flex;
+  align-self: flex-start;
+  padding: 16.9px 0 17px 0.7px;
+  width: 147.7px;
+  box-sizing: border-box;
+}
+.group-9147 {
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.group-9148 {
+  margin-top: 20.9px;
+  display: flex;
+  flex-direction: column;
+  width: 379.2px;
+  box-sizing: border-box;
+}
+.contact-me {
+  background: #FFFFFF;
+  position: relative;
+  margin: 0 88.9px 57.7px 39px;
+  display: flex;
+  flex-direction: row;
+  padding: 56.5px 95px 56.3px 87.6px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.footertext {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  height: 100%;
+  
+}
+
+.bluefooter {
+  width: 100%;
+}
+.yeukai-cvurayayi {
+  position: relative;
+  margin: 0 12.5px 1.7px 0;
+  display: inline-block;
+  width: 253.5px;
+  overflow-wrap: break-word;
+  font-family: 'Ubuntu';
+  font-style: italic;
+  font-weight: 700;
+  font-size: 18.3px;
+  line-height: 1.385;
+  color: #FB3F6C;
+}
+.rectangle-393 {
+  opacity: 0.4;
+  background: var(--text-on-white, #FFFFFF);
+  margin-right: 12.6px;
+  width: 0.7px;
+  height: 22.1px;
+}
+.vector-2099 {
+  width: 10.3px;
+  height: 8.6px;
+}
+.ant-designcopyright-circle-outlined {
+  margin: 6.8px 4.8px 6.8px 0;
+  display: flex;
+  width: 10.3px;
+  height: 8.6px;
+  box-sizing: border-box;
+}
+.copyright-yeukai-vurayayi-all-rights-reserved-sub1 {
+  font-family: 'Ubuntu';
+  font-style: italic;
+  font-weight: 700;
+  font-size: 11.3px;
+  line-height: 1.333;
+}
+.copyright-yeukai-vurayayi-all-rights-reserved {
+  margin: 5.7px 0 3.4px 0;
+  overflow-wrap: break-word;
+  font-family: 'Ubuntu';
+  font-weight: 400;
+  font-size: 11.3px;
+  color: var(--text-on-white, #FFFFFF);
+}
+.container-7 {
+  margin: 1.2px 0;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.privacy-policy {
+  margin-right: 6.5px;
+  width: 88.8px;
+  overflow-wrap: break-word;
+  font-family: 'Ubuntu';
+  font-weight: 400;
+  font-size: 11.3px;
+  color: var(--text-on-white, #FFFFFF);
+}
+.terms {
+  overflow-wrap: break-word;
+  font-family: 'Ubuntu';
+  font-weight: 400;
+  font-size: 11.3px;
+  color: var(--text-on-white, #FFFFFF);
+}
+.container-15 {
+  margin: 6.8px 0 4.8px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 127.1px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.deskripsi {
+  margin: 5.8px 17.8px 4.8px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Ubuntu';
+  font-weight: 400;
+  font-size: 12.7px;
+  color: var(--text-header, #FFFFFF);
+}
+.group {
+  width: 18.3px;
+  height: 18.3px;
+}
+.facebook {
+  border-radius: 5.6px;
+  background: #FFFFFF;
+  margin-right: 11.8px;
+  display: flex;
+  padding: 4.9px 6.3px 1.4px 4.9px;
+  width: 29.6px;
+  height: 24.6px;
+  box-sizing: border-box;
+}
+.vector-1954 {
+  margin: 0 11.8px 1.1px 0;
+  width: 3.7px;
+  height: 3.7px;
+}
+.vector-1943 {
+  background: #FB3F6C;
+  margin: 0.3px 2px 0 0;
+  width: 3.2px;
+  height: 10.3px;
+}
+.vector-1932 {
+  margin-bottom: 0px;
+  width: 10px;
+  height: 10.6px;
+}
+.container-5 {
+  margin-left: 0.3px;
+  display: flex;
+  flex-direction: row;
+  width: 15.2px;
+  box-sizing: border-box;
+}
+.twitter {
+  border-radius: 5.6px;
+  background: #FFFFFF;
+  margin-right: 11.8px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 6.3px 7.8px 2.8px 6.3px;
+  width: 29.6px;
+  box-sizing: border-box;
+}
+.instagram-1 {
+  width: 18.3px;
+  height: 18.3px;
+}
+.instagram {
+  border-radius: 5.6px;
+  background: #FFFFFF;
+  display: flex;
+  padding: 4.9px 6.3px 1.4px 4.9px;
+  width: 29.6px;
+  height: 24.6px;
+  box-sizing: border-box;
+}
+.container-4 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.copyright-2 {
+  position: relative;
+  margin-top: 2.1px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 677.7px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.footer {
+  background: url('../images/images/footertext_x2.svg');
+  position: relative;
+  margin: 0 75px 0 46px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 57.4px 41.3px 59.8px 35px;
+  width: 1020px;
+  box-sizing: border-box;
+}
+/* .conny .container-100 {
+  margin: 42px 737.5px 0 0;
+  display: flex;
+  flex-direction: column;
+  width: 1141px;
+  height: fit-content;
+  box-sizing: border-box;
+} */
+/* .conny .hero-2 {
+  opacity: 0.12;
+  filter: blur(101.8px);
+  background: rgba(246, 215, 228, 0.29);
+  margin-bottom: 29.8px;
+  width: 1030px;
+  height: 3221px;
+} */
+/* .conny { */
+  /* background: #FFFFFF;
+  display: flex;
+  flex-direction: row;
+  padding-bottom: 0.5px;
+  width: 1013.1px;
+  box-sizing: border-box;
+} */
+.copyright-yeukai-vurayayi-all-rights-reserved {
+  margin: 5.7px 0 3.4px 0;
+  overflow-wrap: break-word;
+  font-family: 'Ubuntu';
+  font-weight: 400;
+  font-size: 11.3px;
+  color: var(--text-on-white, #FFFFFF);
+}
+.copyright-yeukai-vurayayi-all-rights-reserved-sub1 {
+  font-family: 'Ubuntu';
+  font-style: italic;
+  font-weight: 700;
+  font-size: 11.3px;
+  line-height: 1.333;
+}
+.group-11 {
+  box-shadow: 0px 83.7px 56.3px 0px rgba(193, 38, 75, 0.07), 0px 25.2px 33.8px 0px rgba(184, 36, 80, 0.047), 0px 10.5px 7.9px 0px rgba(171, 50, 108, 0.046), 0px 3.8px 0.7px 0px rgba(67, 8, 43, 0.041);
+  width: 735.3px;
+  height: 302.3px;
+}
+.container-200 {
+  margin-bottom: 11.5px;
+  align-self: flex-start;
+  width: 26.5px;
+  height: 16.6px;
+}
+
+
+
+
+
+/*
+####################################################
+M E D I A  Q U E R I E S
+####################################################
+*/
+
+/*
+::::::::::::::::::::::::::::::::::::::::::::::::::::
+Bootstrap 4 breakpoints
+*/
+
+/* 
+Extra small devices (portrait phones, less than 576px) 
+No media query since this is the default in Bootstrap because it is "mobile first"
+*/
+
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 568px) {  
+
+}
+
+/* Medium devices (tablets, 768px and up) The navbar toggle appears at this breakpoint */
+@media (min-width: 768px) {  
+
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) { 
+
+}
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {  
+    
+}
+
+
+
+/*
+::::::::::::::::::::::::::::::::::::::::::::::::::::
+Custom media queries
+*/
+
+/* Set width to make card deck cards 100% width */
+@media (max-width: 950px) { 
+
+}
+
+
+
